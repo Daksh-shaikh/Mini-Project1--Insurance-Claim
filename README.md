@@ -15,3 +15,17 @@ Seaborn
 
 Dataset
 The dataset used in this project contains information about the Age, Sex, BMI, Children, Smoker, Region, Charges and claims. The dataset is available in the insurance.csv.
+
+Usage
+To run the project, please open the Insurance Claim.ipynb file in Jupyter Notebook and follow the instructions provided in the notebook.
+
+Contributing
+We welcome contributions from the community. To contribute, please fork this repository, make your changes, and submit a pull request.
+
+Acknowledgments
+We would like to thank the open source community for providing us with the tools and resources needed to complete this project.
+
+
+
+
+
