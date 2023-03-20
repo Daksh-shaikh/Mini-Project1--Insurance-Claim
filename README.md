@@ -14,4 +14,4 @@ Matplotlib
 Seaborn
 
 Dataset
-The dataset used in this project contains information about the Age, Sex, BMI, Children, Smoker, Region, Charges and claims. The dataset is available in the data folder.
+The dataset used in this project contains information about the Age, Sex, BMI, Children, Smoker, Region, Charges and claims. The dataset is available in the insurance.csv.
